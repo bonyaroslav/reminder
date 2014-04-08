@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="MainColor">#E1DED9</SolidColorBrush>
+    <ImageBrush x:Key="MainBackground" ImageSource="/Resources/Images/VintageWood1_w600.jpg" />
+    <ImageBrush x:Key="MainInnerBackground" ImageSource="/Resources/Images/2_textile_texture_prew_w500.jpg" />
+    <Style TargetType="TextBlock" x:Key="QuoteText">
+        <Setter Property="FontFamily" Value="Nyala"></Setter>
+        <Setter Property="FontSize" Value="29" ></Setter>
+        <Setter Property="Foreground" Value="{StaticResource ResourceKey=MainColor}" ></Setter>
+    </Style>
+</ResourceDictionary>

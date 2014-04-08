@@ -1,0 +1,17 @@
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\bin\Debug\Fligern.UsefulReminder.exe
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\bin\Debug\Fligern.UsefulReminder.pdb
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\Fligern.UsefulReminder.WpfGUI.csprojResolveAssemblyReference.cache
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\MainWindow.baml
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\MainWindow.g.cs
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\App.g.cs
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\Fligern.UsefulReminder_MarkupCompile.cache
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\Fligern.UsefulReminder.g.resources
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\Fligern.UsefulReminder.Properties.Resources.resources
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\Fligern.UsefulReminder.WpfGUI.csproj.GenerateResource.Cache
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\Fligern.UsefulReminder.exe
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\Fligern.UsefulReminder.pdb
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\Controls\QuotePopup.baml
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\Controls\QuotePopup.g.cs
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\Resources\Style.baml
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\Resources\Themes\Theme1.baml
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder\obj\Debug\App.baml

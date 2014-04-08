@@ -1,0 +1,5 @@
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\bin\Debug\Fligern.UsefulReminder.Base.dll
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\bin\Debug\Fligern.UsefulReminder.Base.pdb
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\obj\Debug\Fligern.UsefulReminder.Base.csprojResolveAssemblyReference.cache
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\obj\Debug\Fligern.UsefulReminder.Base.dll
+E:\Projects\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\obj\Debug\Fligern.UsefulReminder.Base.pdb

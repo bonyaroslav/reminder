@@ -1,0 +1,4 @@
+E:\Projects\Fligern.UsefulReminder\Fligern.WebFetcher\bin\Fligern.WebFetcher.dll
+E:\Projects\Fligern.UsefulReminder\Fligern.WebFetcher\bin\Fligern.WebFetcher.pdb
+E:\Projects\Fligern.UsefulReminder\Fligern.WebFetcher\obj\Debug\Fligern.WebFetcher.dll
+E:\Projects\Fligern.UsefulReminder\Fligern.WebFetcher\obj\Debug\Fligern.WebFetcher.pdb
