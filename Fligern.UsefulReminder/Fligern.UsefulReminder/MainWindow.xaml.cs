@@ -19,6 +19,21 @@ namespace Fligern.UsefulReminder
     /// </summary>
     public partial class MainWindow : Window
     {
+        /// <summary>
+        /// The child window
+        /// </summary>
+        private Window _childWindow;
+
+        public Window ChildWindow
+        {
+            get { return _childWindow; }
+            set
+            {
+                _childWindow = value;               
+
+            }
+        }
+
         public MainWindow()
         {
             InitializeComponent();
@@ -26,7 +41,12 @@ namespace Fligern.UsefulReminder
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-
+            if (_childWindow != null)
+            {
+                var viewModel = this.DataContext as MainViewModel;
+                viewModel.FetchRandomData();
+                _childWindow.ShowDialog();
+            }
         }
     }
 }

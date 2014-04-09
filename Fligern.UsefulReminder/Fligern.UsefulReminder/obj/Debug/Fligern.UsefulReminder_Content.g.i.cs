@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/images/2_textile_texture_prew_w500.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("reminder2.ico")]
 
 

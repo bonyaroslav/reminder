@@ -12,5 +12,12 @@ namespace Fligern.UsefulReminder
     /// </summary>
     public partial class App : Application
     {
+        ApplicationController appController;
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            appController = new ApplicationController();
+            appController.Initialize();
+            base.OnStartup(e);
+        }
     }
 }

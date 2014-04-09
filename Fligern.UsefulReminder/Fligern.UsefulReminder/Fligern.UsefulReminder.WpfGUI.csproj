@@ -33,6 +33,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Reminder2.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -65,6 +68,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ApplicationController.cs" />
     <Compile Include="Controls\QuotePopup.xaml.cs">
       <DependentUpon>QuotePopup.xaml</DependentUpon>
     </Compile>
@@ -119,6 +123,18 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\Images\VintageWood1_w600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\Reminder2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Reminder2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Fligern.UsefulReminder.Base\Fligern.UsefulReminder.Base.csproj">
+      <Project>{fd3afad0-b8ef-4c7c-a328-02cc5f7e2b9a}</Project>
+      <Name>Fligern.UsefulReminder.Base</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -22,6 +22,6 @@ namespace Fligern.UsefulReminder.Controls
         public QuotePopup()
         {
             InitializeComponent();
-        }
+        }        
     }
 }
