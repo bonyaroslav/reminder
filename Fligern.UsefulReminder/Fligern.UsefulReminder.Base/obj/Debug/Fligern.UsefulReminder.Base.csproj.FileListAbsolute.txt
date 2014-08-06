@@ -8,3 +8,8 @@ E:\Projects\GitHub\reminder\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\b
 E:\Projects\GitHub\reminder\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\obj\Debug\Fligern.UsefulReminder.Base.csprojResolveAssemblyReference.cache
 E:\Projects\GitHub\reminder\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\obj\Debug\Fligern.UsefulReminder.Base.dll
 E:\Projects\GitHub\reminder\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\obj\Debug\Fligern.UsefulReminder.Base.pdb
+D:\Projects\CustomProjects\Github\reminder\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\obj\Debug\Fligern.UsefulReminder.Base.csprojResolveAssemblyReference.cache
+D:\Projects\CustomProjects\Github\reminder\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\obj\Debug\Fligern.UsefulReminder.Base.dll
+D:\Projects\CustomProjects\Github\reminder\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\obj\Debug\Fligern.UsefulReminder.Base.pdb
+D:\Projects\CustomProjects\Github\reminder\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\bin\Debug\Fligern.UsefulReminder.Base.dll
+D:\Projects\CustomProjects\Github\reminder\Fligern.UsefulReminder\Fligern.UsefulReminder.Base\bin\Debug\Fligern.UsefulReminder.Base.pdb

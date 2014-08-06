@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fligern.UsefulReminder.Base
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fligern.WebFetcher", "Fligern.WebFetcher\Fligern.WebFetcher.csproj", "{B493282A-2890-4D84-9CD7-BFB1187750D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fligern.Controls", "Fligern.Controls\Fligern.Controls.csproj", "{3625CFB7-FEDF-4215-B15C-64D20C4575F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFGrowlNotification", "WPFGrowlNotification\WPFGrowlNotification.csproj", "{6995ABFD-720F-41E7-BE8B-38F23BA4BB57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{B493282A-2890-4D84-9CD7-BFB1187750D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B493282A-2890-4D84-9CD7-BFB1187750D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B493282A-2890-4D84-9CD7-BFB1187750D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3625CFB7-FEDF-4215-B15C-64D20C4575F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3625CFB7-FEDF-4215-B15C-64D20C4575F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3625CFB7-FEDF-4215-B15C-64D20C4575F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3625CFB7-FEDF-4215-B15C-64D20C4575F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6995ABFD-720F-41E7-BE8B-38F23BA4BB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6995ABFD-720F-41E7-BE8B-38F23BA4BB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6995ABFD-720F-41E7-BE8B-38F23BA4BB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6995ABFD-720F-41E7-BE8B-38F23BA4BB57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

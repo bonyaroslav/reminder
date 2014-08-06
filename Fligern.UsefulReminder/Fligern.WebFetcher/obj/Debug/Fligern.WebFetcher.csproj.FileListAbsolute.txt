@@ -7,3 +7,8 @@ E:\Projects\GitHub\reminder\Fligern.UsefulReminder\Fligern.WebFetcher\bin\Fliger
 E:\Projects\GitHub\reminder\Fligern.UsefulReminder\Fligern.WebFetcher\obj\Debug\Fligern.WebFetcher.csprojResolveAssemblyReference.cache
 E:\Projects\GitHub\reminder\Fligern.UsefulReminder\Fligern.WebFetcher\obj\Debug\Fligern.WebFetcher.dll
 E:\Projects\GitHub\reminder\Fligern.UsefulReminder\Fligern.WebFetcher\obj\Debug\Fligern.WebFetcher.pdb
+D:\Projects\CustomProjects\Github\reminder\Fligern.UsefulReminder\Fligern.WebFetcher\bin\Fligern.WebFetcher.dll
+D:\Projects\CustomProjects\Github\reminder\Fligern.UsefulReminder\Fligern.WebFetcher\bin\Fligern.WebFetcher.pdb
+D:\Projects\CustomProjects\Github\reminder\Fligern.UsefulReminder\Fligern.WebFetcher\obj\Debug\Fligern.WebFetcher.csprojResolveAssemblyReference.cache
+D:\Projects\CustomProjects\Github\reminder\Fligern.UsefulReminder\Fligern.WebFetcher\obj\Debug\Fligern.WebFetcher.dll
+D:\Projects\CustomProjects\Github\reminder\Fligern.UsefulReminder\Fligern.WebFetcher\obj\Debug\Fligern.WebFetcher.pdb
